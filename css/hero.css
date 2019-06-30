@@ -7,7 +7,7 @@ html, body{
 }
 
 header{
-    background-color: #0004c0;
+    background-color: #9A1D28;
     padding: 40px;
     text-align: center;
 
@@ -15,25 +15,29 @@ header{
 
 h1{
     font-size: 90px;
-    color: white;
+    color: #CCCDCA;
 }
 
 
 header img{
     border-radius: 200px;
-    width: 400px;
-    border: 10px solid #CC0000;
+    width: 350px;
+    border: 10px solid #A2A09C;
     
 }
-
+.wrapper{
+    background-color: #2E231F
+}
 .content{
     max-width: 900px;
     margin: 0 auto;
     padding: 0 20px;
-}
+    color: #CCCDCA;
+    }
 
 img.big-image{
     max-width: 100%;
+    border-radius: 20px;
 }
 
 p.caption{
@@ -49,18 +53,20 @@ ul{
 }
 
 a{
-    color: red;
+    color: #E85367;
     text-decoration: none;
   }
 
 footer{
     margin-top: 20px;
     padding: 40px 20px;
-    background-color: #e6e6e6;
+    background-color: #A2A09C;
+    color: #2E231F;
 }
 
 footer ul{
     text-align: center;
+    
 }
 
 footer ul li{
